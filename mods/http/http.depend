@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1492481922 source:c:\users\frankbryant\desktop\projects\ircbot\mods\http\main.cpp
+	<windows.h>
+	<string>
+	"socket_engine.hpp"
+
+1492467748 source:c:\users\frankbryant\desktop\projects\ircbot\src\socket_engine.cpp
+	"socket_engine.hpp"
+

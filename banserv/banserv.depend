@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428368097 source:c:\documents and settings\jr\desktop\mystuff\programming\c++\new\select_engine\banserv\main.cpp
+	"socket_engine.hpp"
+	<fstream>
+

@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1428388594 source:c:\documents and settings\jr\desktop\mystuff\programming\c++\new\select_engine\socket_engine.cpp
+	"socket_engine.hpp"
+
+1428501674 c:\documents and settings\jr\desktop\mystuff\programming\c++\new\select_engine\socket_engine.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<csignal>
+	<malloc.h>
+	<stdarg.h>
+	<iostream>
+	<fstream>
+	<unistd.h>
+	<sys/types.h>
+	<string.h>
+	<fcntl.h>
+	<errno.h>
+	<iomanip>
+	<time.h>
+	<sys/time.h>
+	<list>
+	<sstream>
+	<vector>
+	<cstdio>
+	<iostream>
+	<list>
+	<unistd.h>
+	<cstring>
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	<wincrypt.h>
+	<sys/socket.h>
+	<netdb.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<signal.h>
+
+1428362060 source:c:\documents and settings\jr\desktop\mystuff\programming\c++\new\select_engine\main.cpp
+	"socket_engine.hpp"
+
+1512843077 source:c:\users\frankbryant\desktop\projects\ircbot\main.cpp
+	"socket_engine.hpp"
+
+1492472623 c:\users\frankbryant\desktop\projects\ircbot\socket_engine.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<csignal>
+	<malloc.h>
+	<stdarg.h>
+	<iostream>
+	<fstream>
+	<unistd.h>
+	<sys/types.h>
+	<string.h>
+	<fcntl.h>
+	<errno.h>
+	<iomanip>
+	<time.h>
+	<sys/time.h>
+	<list>
+	<sstream>
+	<vector>
+	<cstdio>
+	<iostream>
+	<list>
+	<unistd.h>
+	<cstring>
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	<wincrypt.h>
+	<sys/socket.h>
+	<netdb.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"defines.hpp"
+	<signal.h>
+	"modules.hpp"
+
+1512841539 source:c:\users\frankbryant\desktop\projects\ircbot\socket_engine.cpp
+	"socket_engine.hpp"
+
+1493534324 source:c:\users\frankbryant\desktop\projects\ircbot\src\modules.cpp
+	"socket_engine.hpp"
+	"modules.hpp"
+

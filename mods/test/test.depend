@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1492476825 source:c:\users\frankbryant\desktop\projects\ircbot\mods\test\main.cpp
+	<windows.h>
+	<string>
+	"socket_engine.hpp"
+
+1446671344 c:\users\frankbryant\desktop\projects\ircbot\mods\test\main.h
+	<windows.h>
+
+1492471348 source:c:\users\frankbryant\desktop\projects\ircbot\socket_engine.cpp
+	"socket_engine.hpp"
+
+1492472502 c:\users\frankbryant\desktop\projects\ircbot\socket_engine.hpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<csignal>
+	<malloc.h>
+	<stdarg.h>
+	<iostream>
+	<fstream>
+	<unistd.h>
+	<sys/types.h>
+	<string.h>
+	<fcntl.h>
+	<errno.h>
+	<iomanip>
+	<time.h>
+	<sys/time.h>
+	<list>
+	<sstream>
+	<vector>
+	<cstdio>
+	<iostream>
+	<list>
+	<unistd.h>
+	<cstring>
+	<stdio.h>
+	<windows.h>
+	<winsock2.h>
+	<wincrypt.h>
+	<sys/socket.h>
+	<netdb.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	"defines.hpp"
+	<signal.h>
+	"modules.hpp"
+
+1492471348 source:c:\users\frankbryant\desktop\projects\ircbot\src\socket_engine.cpp
+	"socket_engine.hpp"
+
